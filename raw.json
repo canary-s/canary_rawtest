@@ -1,1 +1,1 @@
-{ "request_id": "157", "uid": "e14dcfb1-e53c-4439-a876-af7f97083ed9", "result": "validated", "description": "Proteção inicializada com sucesso! | ID: #$request_id ~ UID: $uid" }
+{ "request_id": "157", "uid": "e14dcfb1-e53c-4439-a876-af7f97083ed9", "result": "validated", "description": "Proteção inicializada com sucesso! | ID: #%s ~ UID: %s" }
