@@ -1,1 +1,6 @@
-{ "version": 1.4, "request_id": "157", "uid": "e14dcfb1", "result": "validated", "description": "Proteção inicializada com sucesso! | ID: #%s ~ UID: %s" }
+{ "version": 1.4,
+ "request_id": "157",
+ "uid": "e14dcfb1",
+ "result": "validated",
+ "description": "Proteção inicializada com sucesso! | ID: #%s ~ UID: %s"
+}
