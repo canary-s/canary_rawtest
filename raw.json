@@ -1,7 +1,7 @@
 { 
  "version": 1.4,
- "request_id": "157",
+ "request_id": "454",
  "uid": "e14dcfb1",
- "result": "validated",
- "description": "Proteção inicializada com sucesso! | ID: #%s ~ UID: %s"
+ "result": "unvalidated",
+ "description": "Proteção não validada! | ID: #%s ~ UID: %s"
 }
