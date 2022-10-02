@@ -2,6 +2,6 @@
  "version": 1.4,
  "request_id": "454",
  "uid": "e14dcfb1",
- "result": "unvalidated",
- "description": "Proteção não validada! | ID: #%s ~ UID: %s"
+ "result": "validated",
+ "description": "Proteção validada com sucesso! | ID: #%s ~ UID: %s"
 }
